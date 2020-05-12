@@ -8,7 +8,14 @@ public class Practice {
         String name ="Mike Smith";
 
         System.out.println("data= " + x +" "+ name);
-
-
+        
+    }
+    
+    //this is added from github
+    public static void setup(){ 
+    
+    int counter;
+        
+        counter=1; 
     }
 }
